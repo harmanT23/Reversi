@@ -1,5 +1,5 @@
 /* 
- * File:   Lab7Part1
+ * File:   Reversi
  * Author: Harmanprit Tatla
  *
  * Created on November 1, 2015, 1:02 AM
